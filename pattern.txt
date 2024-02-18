@@ -1,0 +1,48 @@
+e, k5, front_kk, k10, back_kk, k10, front_kk, k5, e
+e, p4, back_pp, front_pp, p8, back_pp, front_pp, p8, back_pp, front_pp, p4, e
+e, k3, back_kk, k2, front_kk, k6, back_kk, k2, front_kk, k6, back_kk, k2, front_kk, k3, e
+e, p2, back_pp, p4, front_pp, p4, back_pp, p4, front_pp, p4, back_pp, p4, front_pp, p2, e
+e, k1, back_kk, k6, front_kk, k3, front_kk, k4, back_kk, k3, back_kk, k6, front_kk, k1, e
+e, back_pp, p8, front_pp, p3, front_pp, p2, back_pp, p3, back_pp, p8, front_pp, e
+e, front_kk, k8, back_kk, k4, front_kk, back_kk, k4, front_kk, k8, front_kk, e
+e, p1, front_pp, p6, back_pp, p6, front_pp, p6, front_pp, p6, back_pp, p1, e
+e, k2, front_kk, k4, back_kk, k6, back_kk, front_kk, k6, front_kk, k4, back_kk, k2, e
+e, p3, front_pp, p2, back_pp, p6, back_pp, p2, front_pp, p6, front_pp, p2, back_pp, p3, e
+e, k4, front_kk, back_kk, k6, back_kk, k4, front_kk, k6, front_kk, back_kk, k4, e
+e, p5, back_pp, p6, back_pp, p6, front_pp, p6, back_pp, p5, e
+e, k4, back_kk, front_kk, k4, back_kk, k8, front_kk, k4, back_kk, front_kk, k4, e
+e, p3, back_pp, p2, front_pp, p2, back_pp, p10, front_pp, p2, back_pp, p2, front_pp, p3, e
+e, k2, front_kk, k4, back_kk, k1, back_kk, k10, front_kk, k1, front_kk, k4, back_kk, k2, e
+e, p2, front_pp, p4, back_pp, p2, front_pp, p8, back_pp, p2, front_pp, p4, back_pp, p2, e
+e, k3, front_kk, k2, back_kk, k4, front_kk, k6, back_kk, k4, front_kk, k2, back_kk, k3, e
+e, p4, front_pp, back_pp, p6, front_pp, p4, back_pp, p6, front_pp, back_pp, p4, e
+e, k5, front_kk, k8, front_kk, k2, back_kk, k8, front_kk, k5, e
+e, p4, back_pp, front_pp, p8, front_pp, back_pp, p8, back_pp, front_pp, p4, e
+e, k3, back_kk, k2, front_kk, k8, back_kk, k8, back_kk, k2, front_kk, k3, e
+e, p2, back_pp, p4, front_pp, p6, back_pp, front_pp, p6, back_pp, p4, front_pp, p2, e
+e, k1, back_kk, k6, front_kk, k4, back_kk, k2, front_kk, k4, back_kk, k6, front_kk, k1, e
+e, back_pp, p8, front_pp, p2, back_pp, p4, front_pp, p2, back_pp, p8, front_pp, e
+e, back_kk, k8, front_kk, k2, back_kk, k4, front_kk, k2, back_kk, k8, front_kk, e
+e, p1, back_pp, p6, front_pp, p4, back_pp, p2, front_pp, p4, back_pp, p6, front_pp, p1, e
+e, k2, back_kk, k4, front_kk, k6, back_kk, front_kk, k6, back_kk, k4, front_kk, k2, e
+e, p3, back_pp, p2, front_pp, p8, front_pp, p8, back_pp, p2, front_pp, p3, e
+e, k4, back_kk, front_kk, k8, front_kk, back_kk, k8, back_kk, front_kk, k4, e
+e, p5, back_pp, p8, front_pp, p2, back_pp, p8, back_pp, p5, e
+e, k4, front_kk, back_kk, k6, front_kk, k4, back_kk, k6, front_kk, back_kk, k4, e
+e, p3, front_pp, p2, back_pp, p4, front_pp, p6, back_pp, p4, front_pp, p2, back_pp, p3, e
+e, k2, front_kk, k4, back_kk, k2, front_kk, k8, back_kk, k2, front_kk, k4, back_kk, k2, e
+e, p2, front_pp, p4, back_pp, p1, back_pp, p10, front_pp, p1, front_pp, p4, back_pp, p2, e
+e, k3, back_kk, k2, front_kk, k2, back_kk, k10, front_kk, k2, back_kk, k2, front_kk, k3, e
+e, p4, back_pp, front_pp, p4, back_pp, p8, front_pp, p4, back_pp, front_pp, p4, e
+e, k5, front_kk, k6, back_kk, k6, front_kk, k6, front_kk, k5, e
+e, p4, front_pp, back_pp, p6, back_pp, p4, front_pp, p6, front_pp, back_pp, p4, e
+e, k3, front_kk, k2, back_kk, k6, back_kk, k2, front_kk, k6, front_kk, k2, back_kk, k3, e
+e, p2, front_pp, p4, back_pp, p6, back_pp, front_pp, p6, front_pp, p4, back_pp, p2, e
+e, k1, front_kk, k6, back_kk, k6, back_kk, k6, front_kk, k6, back_kk, k1, e
+e, front_pp, p8, back_pp, p4, front_pp, back_pp, p4, front_pp, p8, front_pp, e
+e, back_kk, k8, front_kk, k3, front_kk, k2, back_kk, k3, back_kk, k8, front_kk, e
+e, p1, back_pp, p6, front_pp, p3, front_pp, p4, back_pp, p3, back_pp, p6, front_pp, p1, e
+e, k2, back_kk, k4, front_kk, k4, back_kk, k4, front_kk, k4, back_kk, k4, front_kk, k2, e
+e, p3, back_pp, p2, front_pp, p6, back_pp, p2, front_pp, p6, back_pp, p2, front_pp, p3, e
+e, k4, back_kk, front_kk, k8, back_kk, front_kk, k8, back_kk, front_kk, k4, e
+e, p5, back_pp, p10, front_pp, p10, back_pp, p5, e
